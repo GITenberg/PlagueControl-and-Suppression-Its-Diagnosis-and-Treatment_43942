@@ -1,0 +1,33 @@
+_repo: PlagueControl-and-Suppression-Its-Diagnosis-and-Treatment_43942
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Schöbl, Otto
+    alias: Schobl, Otto
+    gutenberg_agent_id: '42491'
+    url: http://www.gutenberg.org/2009/agents/42491
+covers:
+- cover_type: archival
+  image_path: 43942-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jackson, Thomas Wright
+    birthdate: 1869
+    gutenberg_agent_id: '42490'
+    url: http://www.gutenberg.org/2009/agents/42490
+description: ''
+gutenberg_issued: '2013-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rats as carriers of disease'
+- !lcsh 'Plague'
+- !lcc 'RC'
+title: "Plague\r\nIts Cause and the Manner of its Extension, Its Menace, Its Control\
+  \ and Suppression, Its Diagnosis and Treatment"
+url: http://www.gutenberg.org/ebooks/43942
